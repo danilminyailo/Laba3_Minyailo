@@ -1,0 +1,6 @@
+C:\Users\Олег\source\repos\laba3_2\obj\Debug\laba3_2.csprojAssemblyReference.cache
+C:\Users\Олег\source\repos\laba3_2\bin\Debug\laba3_2.exe.config
+C:\Users\Олег\source\repos\laba3_2\bin\Debug\laba3_2.exe
+C:\Users\Олег\source\repos\laba3_2\bin\Debug\laba3_2.pdb
+C:\Users\Олег\source\repos\laba3_2\obj\Debug\laba3_2.exe
+C:\Users\Олег\source\repos\laba3_2\obj\Debug\laba3_2.pdb
